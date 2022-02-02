@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.individualcontainer {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+.image {
+  width: 250px;
+  border-radius: 10px;
+}
+.para {
+  font-size: 14px;
+}
